@@ -84,6 +84,7 @@ h1,h2,h3{
 }
 .btn-border:hover{
     background-color: #ddd;
+     border: 1px solid #e63946;
 }
 .btn-border{
     border: 1px solid #e63946;
